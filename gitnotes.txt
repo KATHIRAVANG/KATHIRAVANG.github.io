@@ -66,5 +66,6 @@ Git hosting
 ==============
 https://github.com/KATHIRAVANG/KATHIRAVANG.github.io
 https://pages.github.com
+git push -u origin master
 
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
