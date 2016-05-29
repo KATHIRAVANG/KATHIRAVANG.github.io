@@ -1,0 +1,30 @@
+GIT 3 stages
+
+1) Staged
+2) Modified
+3) Commited
+
+gitconfig
+============
+1) on user appdata (gitconfig)
+2) on specific to repo (.git/config)
+
+To Cofigure gitconfig
+===================
+git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -nosession"
+
+Main commands
+=============
+git config --list
+git help config
+
+git clone https://github.com/KATHIRAVANG/KATHIRAVANG.github.io
+
+http://KATHIRAVANG.github.io
+
+
+
+Git hosting
+==============
+
+https://pages.github.com
