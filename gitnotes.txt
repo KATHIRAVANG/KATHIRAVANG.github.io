@@ -45,7 +45,26 @@ git log --pretty=format:"%h - %an, %ar : %s"
 git log --since=2.weeks
 git log -Sfunction_name
 
+Reset
+======
+git checkout -- CONTRIBUTING.md ( to replace with original code)
+ git reset HEAD CONTRIBUTING.md
+ 
+ Git Remote
+ ========
+ git remote -v
+ git remote add gk https://github.com/KATHIRAVANG/KATHIRAVANG.github.io
+  git remote show origin
+  
+  Git tag
+  =========
+  git tag
+  git tag -a v1.1 -m "my version 1.1"
+  git push origin --tags
+
 Git hosting
 ==============
 https://github.com/KATHIRAVANG/KATHIRAVANG.github.io
 https://pages.github.com
+
+https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
