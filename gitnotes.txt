@@ -23,8 +23,17 @@ git clone https://github.com/KATHIRAVANG/KATHIRAVANG.github.io
 http://KATHIRAVANG.github.io
 
 
+git setting repo
+========
+git init
+git add *.c
+git commit -m 'initial project version'
+Cloning an Existing Repository
+git clone https://github.com/libgit2/libgit2 <customdirname>
+
+
 
 Git hosting
 ==============
-
+https://github.com/KATHIRAVANG/KATHIRAVANG.github.io
 https://pages.github.com
